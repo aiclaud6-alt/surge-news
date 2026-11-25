@@ -4,10 +4,21 @@
       "id": "patch-11111.0.5-test",
       "date": "2026-11-25",
       "tag": "update",
+      {
+  "items": [
+    {
+      "id": "patch-1.0.5-test",
+      "date": "2026-11-25",
+      "tag": "update",
       "version": "1.0.1",
       "title": "Test update",
       "body": "Testing live updates.",
       "changes": [
-        { "type": "fix", "text": "This is a test entry." }
+        {
+          "type": "fix",
+          "text": "This is a test entry."
+        }
       ]
-    },
+    }
+  ]
+}
