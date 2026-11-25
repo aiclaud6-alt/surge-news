@@ -1,34 +1,190 @@
 {
-  "latest": { "version": "1.4.0", "url": "https://discord.gg/8vHeRzH4H8" },
   "items": [
     {
-      "id": "patch-1.4.0",
+      "id": "patch-1.0.0-everything",
       "date": "2026-11-25",
       "tag": "update",
-      "version": "1.4.0",
-      "title": "News feed and themed login",
-      "body": "Big quality-of-life update.",
+      "version": "1.0.0",
+      "title": "Surge Engine: everything in the app",
+      "body": "A full tour of every feature, tab by tab.",
       "changes": [
-        { "type": "add", "text": "News and patch notes panel with live updates and an update tracker." },
-        { "type": "improve", "text": "The login window now follows your selected theme. Frosted Glass keeps its look." },
-        { "type": "fix", "text": "Fixed an example bug so you can see how fixes look." },
-        { "type": "remove", "text": "Removed an example old feature." }
+        {
+          "type": "add",
+          "text": "Dashboard: Auto clicker with any key or mouse button as the activation key, including Middle, Mouse 4, Mouse 5 and Ctrl / Alt / Shift / Win combos."
+        },
+        {
+          "type": "add",
+          "text": "Dashboard: Hold mode clicks only while the key is down. Toggle mode starts on one press and stops on the next."
+        },
+        {
+          "type": "add",
+          "text": "Dashboard: Left, middle or right mouse button clicks."
+        },
+        {
+          "type": "add",
+          "text": "Dashboard: Click speed from 0.1 up to 500 clicks per second, or unlimited, with an adjustable click duty cycle and a live click / wait timing readout."
+        },
+        {
+          "type": "add",
+          "text": "Dashboard: Click limit to stop automatically after a set number of clicks."
+        },
+        {
+          "type": "add",
+          "text": "Dashboard: Click position: at the cursor, or at a fixed screen position you capture with a 3 second countdown."
+        },
+        {
+          "type": "add",
+          "text": "Dashboard: Choose apps: only click while one of your checked programs is in the foreground."
+        },
+        {
+          "type": "add",
+          "text": "Dashboard: Total click counter and a READY / CLICKING status pill."
+        },
+        {
+          "type": "add",
+          "text": "Dashboard: Right now card showing the Roblox game you are currently in."
+        },
+        {
+          "type": "add",
+          "text": "Dashboard: Autostart with Windows, always on top, reset settings, and everything saves automatically."
+        },
+        {
+          "type": "add",
+          "text": "Dashboard: Languages: English, Deutsch and Español."
+        },
+        {
+          "type": "add",
+          "text": "Dashboard: High precision click timing for steady, consistent speeds."
+        },
+        {
+          "type": "add",
+          "text": "Dashboard: Guided tour of the important parts, which you can replay any time."
+        },
+        {
+          "type": "add",
+          "text": "Profile: Discord profile card with an option to show your status on Discord."
+        },
+        {
+          "type": "add",
+          "text": "Profile: Themes: Default black, Surge official, Floating Stars, Snowfall, Embers, Rain, Solo Leveling x Qc1m, Sasuke Sunset and Frosted Glass."
+        },
+        {
+          "type": "add",
+          "text": "Profile: Import your own picture, GIF or video as a custom theme, with optional looping background music and a volume slider."
+        },
+        {
+          "type": "add",
+          "text": "Profile: Accent colour picker and an option to keep theme animations running when the window is not focused."
+        },
+        {
+          "type": "add",
+          "text": "Profile: Streamproof: hides the app from screen sharing, streams and recordings, with its own hotkey to toggle it from anywhere."
+        },
+        {
+          "type": "add",
+          "text": "Profile: Open settings folder shortcut."
+        },
+        {
+          "type": "add",
+          "text": "Roblox: FPS cap unlocker plus quick toggles for low-res textures, shadows, post-processing, anti-aliasing and the renderer."
+        },
+        {
+          "type": "add",
+          "text": "Roblox: FFlag editor and one-click reset for your fast flags."
+        },
+        {
+          "type": "add",
+          "text": "Roblox: Custom fonts: add your own font file, open the fonts folder, and restore the original any time."
+        },
+        {
+          "type": "add",
+          "text": "Roblox: Launch Roblox straight from the app (with a Game ID or direct), open the Roblox folder, and clear cache and logs."
+        },
+        {
+          "type": "add",
+          "text": "Movement: Snappy Tappy: when you hold two opposite keys, the last one pressed wins, with separate Left / Right and Forward / Back switches."
+        },
+        {
+          "type": "add",
+          "text": "Movement: Rebind each movement key by clicking a slot, or by clicking it on the on-screen keyboard."
+        },
+        {
+          "type": "add",
+          "text": "Clips: Instant Replay that keeps the last moments of your game ready to save with a hotkey."
+        },
+        {
+          "type": "add",
+          "text": "Clips: Manual recording with its own hotkey, plus audio and hotkey settings (PC audio and microphone)."
+        },
+        {
+          "type": "add",
+          "text": "Clips: Overlays: webcam in your recordings (mirror option), keyboard overlay, mouse overlay and a mic indicator that lights up when you talk."
+        },
+        {
+          "type": "add",
+          "text": "Clips: Library of your saved clips with preview, storage settings and a built-in FFmpeg download."
+        },
+        {
+          "type": "add",
+          "text": "Utilities: Screen tools: software brightness, gamma and warmth, for one or all monitors, with restore on exit and apply on start."
+        },
+        {
+          "type": "add",
+          "text": "Utilities: Internet tools: DNS and QoS (DSCP) settings."
+        },
+        {
+          "type": "add",
+          "text": "Utilities: Game Mode with boost, calm, memory, power and timer options for smoother gaming."
+        },
+        {
+          "type": "add",
+          "text": "Shake: Mouse shake with left / right or up / down direction, adjustable speed, amount, ramp-up, randomness and an auto stop timer."
+        },
+        {
+          "type": "add",
+          "text": "Shake: Its own hold / toggle key, separate from the clicker."
+        },
+        {
+          "type": "add",
+          "text": "Crosshair: Custom cursors for Roblox: import your own images, preview them and pick a size."
+        },
+        {
+          "type": "add",
+          "text": "Crosshair: Keeps your cursor and font after Roblox updates, backs up the originals so Restore always works, and supports Roblox, Bloxstrap and Fishstrap."
+        },
+        {
+          "type": "add",
+          "text": "Macros: Record, edit and play back macros, with a panic key (F12 by default) that stops everything instantly."
+        },
+        {
+          "type": "add",
+          "text": "Presets: Save, share and apply your whole setup in one click."
+        },
+        {
+          "type": "add",
+          "text": "Games: Click a game to jump straight in."
+        },
+        {
+          "type": "add",
+          "text": "Extras: Daily spin wheel: one free spin every 24 hours, with the countdown shown in the sidebar."
+        },
+        {
+          "type": "add",
+          "text": "Extras: Login with your Discord account. It remembers you, follows your theme, and keeps its frosted look on Frosted Glass."
+        },
+        {
+          "type": "add",
+          "text": "Extras: News and patch notes panel that updates live while the app is open."
+        }
       ]
-    },
-    {
-      "id": "event-weekend-spin",
-      "date": "2026-11-24",
-      "tag": "event",
-      "title": "Double spin weekend",
-      "body": "Join the Discord for the details.",
-      "url": "https://discord.gg/8vHeRzH4H8"
     },
     {
       "id": "news-welcome",
       "date": "2026-11-20",
       "tag": "news",
       "title": "Welcome to Surge Engine",
-      "body": "News and patch notes show up here."
+      "body": "News and patch notes show up here. Join the Discord to stay in the loop.",
+      "url": "https://discord.gg/8vHeRzH4H8"
     }
   ]
 }
