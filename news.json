@@ -1,0 +1,34 @@
+{
+  "latest": { "version": "1.4.0", "url": "https://discord.gg/8vHeRzH4H8" },
+  "items": [
+    {
+      "id": "patch-1.4.0",
+      "date": "2026-11-25",
+      "tag": "update",
+      "version": "1.4.0",
+      "title": "News feed and themed login",
+      "body": "Big quality-of-life update.",
+      "changes": [
+        { "type": "add", "text": "News and patch notes panel with live updates and an update tracker." },
+        { "type": "improve", "text": "The login window now follows your selected theme. Frosted Glass keeps its look." },
+        { "type": "fix", "text": "Fixed an example bug so you can see how fixes look." },
+        { "type": "remove", "text": "Removed an example old feature." }
+      ]
+    },
+    {
+      "id": "event-weekend-spin",
+      "date": "2026-11-24",
+      "tag": "event",
+      "title": "Double spin weekend",
+      "body": "Join the Discord for the details.",
+      "url": "https://discord.gg/8vHeRzH4H8"
+    },
+    {
+      "id": "news-welcome",
+      "date": "2026-11-20",
+      "tag": "news",
+      "title": "Welcome to Surge Engine",
+      "body": "News and patch notes show up here."
+    }
+  ]
+}
