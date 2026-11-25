@@ -5,176 +5,176 @@
       "date": "2026-11-25",
       "tag": "update",
       "version": "1.0.0",
-      "title": "Surge Engine: everything in the app",
-      "body": "A full tour of every feature, tab by tab.",
+      "title": "Surge Engine 1.0.0 – Complete Feature Overview",
+      "body": "Explore everything Surge Engine has to offer, from powerful automation tools to advanced Roblox customisation. Here's a complete breakdown of every feature.",
       "changes": [
         {
           "type": "add",
-          "text": "Dashboard: Auto clicker with any key or mouse button as the activation key, including Middle, Mouse 4, Mouse 5 and Ctrl / Alt / Shift / Win combos."
+          "text": "Dashboard: Fully customisable auto clicker with support for any keyboard key or mouse button as an activation key, including Middle Mouse, Mouse 4, Mouse 5 and modifier combinations (Ctrl, Alt, Shift and Win)."
         },
         {
           "type": "add",
-          "text": "Dashboard: Hold mode clicks only while the key is down. Toggle mode starts on one press and stops on the next."
+          "text": "Dashboard: Hold and Toggle activation modes. Hold clicks while the activation key is held, while Toggle starts and stops clicking with each press."
         },
         {
           "type": "add",
-          "text": "Dashboard: Left, middle or right mouse button clicks."
+          "text": "Dashboard: Choose between Left, Middle and Right Mouse Button for automated clicks."
         },
         {
           "type": "add",
-          "text": "Dashboard: Click speed from 0.1 up to 500 clicks per second, or unlimited, with an adjustable click duty cycle and a live click / wait timing readout."
+          "text": "Dashboard: Adjustable click speed from 0.1 to 500 CPS, or Unlimited, with customisable duty cycle and live click/wait timing information."
         },
         {
           "type": "add",
-          "text": "Dashboard: Click limit to stop automatically after a set number of clicks."
+          "text": "Dashboard: Custom click limit to automatically stop after a specified number of clicks."
         },
         {
           "type": "add",
-          "text": "Dashboard: Click position: at the cursor, or at a fixed screen position you capture with a 3 second countdown."
+          "text": "Dashboard: Choose between clicking at your cursor or at a captured fixed screen position, using a 3-second countdown."
         },
         {
           "type": "add",
-          "text": "Dashboard: Choose apps: only click while one of your checked programs is in the foreground."
+          "text": "Dashboard: App targeting lets you restrict clicking to selected programs when they are in the foreground."
         },
         {
           "type": "add",
-          "text": "Dashboard: Total click counter and a READY / CLICKING status pill."
+          "text": "Dashboard: Live click counter and READY / CLICKING status indicator."
         },
         {
           "type": "add",
-          "text": "Dashboard: Right now card showing the Roblox game you are currently in."
+          "text": "Dashboard: Right Now card displaying the Roblox game you're currently playing."
         },
         {
           "type": "add",
-          "text": "Dashboard: Autostart with Windows, always on top, reset settings, and everything saves automatically."
+          "text": "Dashboard: Windows autostart, Always on Top, settings reset and automatic settings saving."
         },
         {
           "type": "add",
-          "text": "Dashboard: Languages: English, Deutsch and Español."
+          "text": "Dashboard: Multilingual interface supporting English, German and Spanish."
         },
         {
           "type": "add",
-          "text": "Dashboard: High precision click timing for steady, consistent speeds."
+          "text": "Dashboard: High-precision click timing for smooth, consistent performance."
         },
         {
           "type": "add",
-          "text": "Dashboard: Guided tour of the important parts, which you can replay any time."
+          "text": "Dashboard: Interactive guided tour explaining the main features, available to replay anytime."
         },
         {
           "type": "add",
-          "text": "Profile: Discord profile card with an option to show your status on Discord."
+          "text": "Profile: Discord profile card with an optional Discord status display."
         },
         {
           "type": "add",
-          "text": "Profile: Themes: Default black, Surge official, Floating Stars, Snowfall, Embers, Rain, Solo Leveling x Qc1m, Sasuke Sunset and Frosted Glass."
+          "text": "Profile: Nine built-in themes: Default Black, Surge Official, Floating Stars, Snowfall, Embers, Rain, Solo Leveling x Qc1m, Sasuke Sunset and Frosted Glass."
         },
         {
           "type": "add",
-          "text": "Profile: Import your own picture, GIF or video as a custom theme, with optional looping background music and a volume slider."
+          "text": "Profile: Import custom images, GIFs or videos as themes, with optional looping background music and adjustable volume."
         },
         {
           "type": "add",
-          "text": "Profile: Accent colour picker and an option to keep theme animations running when the window is not focused."
+          "text": "Profile: Custom accent colours and an option to keep theme animations running when the window is unfocused."
         },
         {
           "type": "add",
-          "text": "Profile: Streamproof: hides the app from screen sharing, streams and recordings, with its own hotkey to toggle it from anywhere."
+          "text": "Profile: Streamproof mode hides the application from supported screen-sharing, streaming and recording captures, with a global hotkey to toggle it."
         },
         {
           "type": "add",
-          "text": "Profile: Open settings folder shortcut."
+          "text": "Profile: Quick access to your settings folder."
         },
         {
           "type": "add",
-          "text": "Roblox: FPS cap unlocker plus quick toggles for low-res textures, shadows, post-processing, anti-aliasing and the renderer."
+          "text": "Roblox: FPS unlocker with quick toggles for low-resolution textures, shadows, post-processing, anti-aliasing and renderer settings."
         },
         {
           "type": "add",
-          "text": "Roblox: FFlag editor and one-click reset for your fast flags."
+          "text": "Roblox: Built-in FFlag editor with a one-click option to reset Fast Flags."
         },
         {
           "type": "add",
-          "text": "Roblox: Custom fonts: add your own font file, open the fonts folder, and restore the original any time."
+          "text": "Roblox: Custom font support. Import your own fonts, open the fonts folder and restore the original font whenever needed."
         },
         {
           "type": "add",
-          "text": "Roblox: Launch Roblox straight from the app (with a Game ID or direct), open the Roblox folder, and clear cache and logs."
+          "text": "Roblox: Launch Roblox directly through Surge Engine using a Game ID or standard launch option. Includes quick access to the Roblox folder and tools to clear cache and logs."
         },
         {
           "type": "add",
-          "text": "Movement: Snappy Tappy: when you hold two opposite keys, the last one pressed wins, with separate Left / Right and Forward / Back switches."
+          "text": "Movement: Snappy Tappy gives priority to the most recently pressed key when holding opposing movement keys, with independent Left / Right and Forward / Back controls."
         },
         {
           "type": "add",
-          "text": "Movement: Rebind each movement key by clicking a slot, or by clicking it on the on-screen keyboard."
+          "text": "Movement: Fully rebindable movement keys. Change bindings by selecting a key slot or clicking a key on the interactive on-screen keyboard."
         },
         {
           "type": "add",
-          "text": "Clips: Instant Replay that keeps the last moments of your game ready to save with a hotkey."
+          "text": "Clips: Instant Replay continuously keeps your latest gameplay moments ready to save with a customisable hotkey."
         },
         {
           "type": "add",
-          "text": "Clips: Manual recording with its own hotkey, plus audio and hotkey settings (PC audio and microphone)."
+          "text": "Clips: Manual gameplay recording with a dedicated hotkey and configurable PC audio and microphone settings."
         },
         {
           "type": "add",
-          "text": "Clips: Overlays: webcam in your recordings (mirror option), keyboard overlay, mouse overlay and a mic indicator that lights up when you talk."
+          "text": "Clips: Recording overlays including webcam support with mirror mode, keyboard overlay, mouse overlay and a microphone indicator that lights up while speaking."
         },
         {
           "type": "add",
-          "text": "Clips: Library of your saved clips with preview, storage settings and a built-in FFmpeg download."
+          "text": "Clips: Built-in clip library with video previews, storage settings and an integrated FFmpeg downloader."
         },
         {
           "type": "add",
-          "text": "Utilities: Screen tools: software brightness, gamma and warmth, for one or all monitors, with restore on exit and apply on start."
+          "text": "Utilities: Screen customisation tools for software brightness, gamma and colour warmth. Supports individual or all monitors, automatic restoration on exit and applying settings on startup."
         },
         {
           "type": "add",
-          "text": "Utilities: Internet tools: DNS and QoS (DSCP) settings."
+          "text": "Utilities: Internet optimisation tools with configurable DNS and QoS (DSCP) settings."
         },
         {
           "type": "add",
-          "text": "Utilities: Game Mode with boost, calm, memory, power and timer options for smoother gaming."
+          "text": "Utilities: Game Mode with Boost, Calm, Memory, Power and Timer options for a more controlled gaming setup."
         },
         {
           "type": "add",
-          "text": "Shake: Mouse shake with left / right or up / down direction, adjustable speed, amount, ramp-up, randomness and an auto stop timer."
+          "text": "Shake: Customisable mouse shaking with Left / Right and Up / Down directions, adjustable speed, intensity, ramp-up, randomness and automatic stop timer."
         },
         {
           "type": "add",
-          "text": "Shake: Its own hold / toggle key, separate from the clicker."
+          "text": "Shake: Independent Hold and Toggle activation modes with a dedicated hotkey, separate from the auto clicker."
         },
         {
           "type": "add",
-          "text": "Crosshair: Custom cursors for Roblox: import your own images, preview them and pick a size."
+          "text": "Crosshair: Custom Roblox cursors with image importing, live previews and adjustable sizing."
         },
         {
           "type": "add",
-          "text": "Crosshair: Keeps your cursor and font after Roblox updates, backs up the originals so Restore always works, and supports Roblox, Bloxstrap and Fishstrap."
+          "text": "Crosshair: Cursor and font preservation across Roblox updates, automatic original-file backups and reliable restoration. Supports Roblox, Bloxstrap and Fishstrap."
         },
         {
           "type": "add",
-          "text": "Macros: Record, edit and play back macros, with a panic key (F12 by default) that stops everything instantly."
+          "text": "Macros: Record, edit and replay custom macros, with an emergency panic key (F12 by default) to stop everything instantly."
         },
         {
           "type": "add",
-          "text": "Presets: Save, share and apply your whole setup in one click."
+          "text": "Presets: Save, share and instantly apply your entire configuration with one click."
         },
         {
           "type": "add",
-          "text": "Games: Click a game to jump straight in."
+          "text": "Games: Launch supported games directly from the built-in games section."
         },
         {
           "type": "add",
-          "text": "Extras: Daily spin wheel: one free spin every 24 hours, with the countdown shown in the sidebar."
+          "text": "Extras: Daily Spin Wheel with one free spin every 24 hours and a countdown displayed in the sidebar."
         },
         {
           "type": "add",
-          "text": "Extras: Login with your Discord account. It remembers you, follows your theme, and keeps its frosted look on Frosted Glass."
+          "text": "Extras: Discord authentication that remembers your account, synchronises with your selected theme and features a matching frosted-glass appearance."
         },
         {
           "type": "add",
-          "text": "Extras: News and patch notes panel that updates live while the app is open."
+          "text": "Extras: Live news and patch notes panel that updates automatically while Surge Engine is running."
         }
       ]
     },
@@ -183,7 +183,7 @@
       "date": "2026-11-20",
       "tag": "news",
       "title": "Welcome to Surge Engine",
-      "body": "News and patch notes show up here. Join the Discord to stay in the loop.",
+      "body": "Welcome to Surge Engine! Stay up to date with the latest announcements, updates and features. Join our Discord community to get involved and never miss an update.",
       "url": "https://discord.gg/8vHeRzH4H8"
     }
   ]
