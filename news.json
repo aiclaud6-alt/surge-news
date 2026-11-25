@@ -1,3 +1,4 @@
+```json
 {
   "items": [
     {
@@ -6,175 +7,59 @@
       "tag": "update",
       "version": "1.0.0",
       "title": "Surge Engine 1.0.0 – Complete Feature Overview",
-      "body": "automation tools to advanced Roblox customisation. Here's a complete breakdown of every feature.",
+      "body": "Introducing Surge Engine 1.0.0. Packed with powerful automation, Roblox customisation, gaming tools and personalisation.",
       "changes": [
         {
           "type": "add",
-          "text": "Dashboard: Fully customisable auto clicker with support for any keyboard key or mouse button as an activation key, including Middle Mouse, Mouse 4, Mouse 5 and modifier combinations (Ctrl, Alt, Shift and Win)."
+          "text": "Dashboard: Fully customisable auto clicker with 0.1–500 CPS, unlimited speed, custom hotkeys, activation modes, click limits, fixed positions and app targeting."
         },
         {
           "type": "add",
-          "text": "Dashboard: Hold and Toggle activation modes. Hold clicks while the activation key is held, while Toggle starts and stops clicking with each press."
+          "text": "Dashboard: Live statistics, high-precision timing, Roblox game detection, autostart, multilingual support and guided tour."
         },
         {
           "type": "add",
-          "text": "Dashboard: Choose between Left, Middle and Right Mouse Button for automated clicks."
+          "text": "Profile: Discord integration, 9 built-in themes, custom backgrounds, GIFs, videos, music, accent colours and Streamproof mode."
         },
         {
           "type": "add",
-          "text": "Dashboard: Adjustable click speed from 0.1 to 500 CPS, or Unlimited, with customisable duty cycle and live click/wait timing information."
+          "text": "Roblox: FPS unlocker, graphics settings, FFlag editor, custom fonts, game launching and cache management."
         },
         {
           "type": "add",
-          "text": "Dashboard: Custom click limit to automatically stop after a specified number of clicks."
+          "text": "Movement: Snappy Tappy and fully customisable movement keybinds."
         },
         {
           "type": "add",
-          "text": "Dashboard: Choose between clicking at your cursor or at a captured fixed screen position, using a 3-second countdown."
+          "text": "Clips: Instant Replay, manual recording, webcam, keyboard and mouse overlays, microphone indicator and clip library."
         },
         {
           "type": "add",
-          "text": "Dashboard: App targeting lets you restrict clicking to selected programs when they are in the foreground."
+          "text": "Utilities: Brightness, gamma, colour warmth, DNS, QoS and advanced Game Mode options."
         },
         {
           "type": "add",
-          "text": "Dashboard: Live click counter and READY / CLICKING status indicator."
+          "text": "Shake: Custom mouse shaking with adjustable direction, speed, intensity, randomness and hotkeys."
         },
         {
           "type": "add",
-          "text": "Dashboard: Right Now card displaying the Roblox game you're currently playing."
+          "text": "Crosshair: Custom Roblox cursors, image importing, previews and automatic backup and restoration."
         },
         {
           "type": "add",
-          "text": "Dashboard: Windows autostart, Always on Top, settings reset and automatic settings saving."
+          "text": "Macros: Record, edit and replay macros with an emergency panic key."
         },
         {
           "type": "add",
-          "text": "Dashboard: Multilingual interface supporting English, German and Spanish."
+          "text": "Presets: Save, share and instantly load configurations."
         },
         {
           "type": "add",
-          "text": "Dashboard: High-precision click timing for smooth, consistent performance."
+          "text": "Games: Built-in launcher for supported games."
         },
         {
           "type": "add",
-          "text": "Dashboard: Interactive guided tour explaining the main features, available to replay anytime."
-        },
-        {
-          "type": "add",
-          "text": "Profile: Discord profile card with an optional Discord status display."
-        },
-        {
-          "type": "add",
-          "text": "Profile: Nine built-in themes: Default Black, Surge Official, Floating Stars, Snowfall, Embers, Rain, Solo Leveling x Qc1m, Sasuke Sunset and Frosted Glass."
-        },
-        {
-          "type": "add",
-          "text": "Profile: Import custom images, GIFs or videos as themes, with optional looping background music and adjustable volume."
-        },
-        {
-          "type": "add",
-          "text": "Profile: Custom accent colours and an option to keep theme animations running when the window is unfocused."
-        },
-        {
-          "type": "add",
-          "text": "Profile: Streamproof mode hides the application from supported screen-sharing, streaming and recording captures, with a global hotkey to toggle it."
-        },
-        {
-          "type": "add",
-          "text": "Profile: Quick access to your settings folder."
-        },
-        {
-          "type": "add",
-          "text": "Roblox: FPS unlocker with quick toggles for low-resolution textures, shadows, post-processing, anti-aliasing and renderer settings."
-        },
-        {
-          "type": "add",
-          "text": "Roblox: Built-in FFlag editor with a one-click option to reset Fast Flags."
-        },
-        {
-          "type": "add",
-          "text": "Roblox: Custom font support. Import your own fonts, open the fonts folder and restore the original font whenever needed."
-        },
-        {
-          "type": "add",
-          "text": "Roblox: Launch Roblox directly through Surge Engine using a Game ID or standard launch option. Includes quick access to the Roblox folder and tools to clear cache and logs."
-        },
-        {
-          "type": "add",
-          "text": "Movement: Snappy Tappy gives priority to the most recently pressed key when holding opposing movement keys, with independent Left / Right and Forward / Back controls."
-        },
-        {
-          "type": "add",
-          "text": "Movement: Fully rebindable movement keys. Change bindings by selecting a key slot or clicking a key on the interactive on-screen keyboard."
-        },
-        {
-          "type": "add",
-          "text": "Clips: Instant Replay continuously keeps your latest gameplay moments ready to save with a customisable hotkey."
-        },
-        {
-          "type": "add",
-          "text": "Clips: Manual gameplay recording with a dedicated hotkey and configurable PC audio and microphone settings."
-        },
-        {
-          "type": "add",
-          "text": "Clips: Recording overlays including webcam support with mirror mode, keyboard overlay, mouse overlay and a microphone indicator that lights up while speaking."
-        },
-        {
-          "type": "add",
-          "text": "Clips: Built-in clip library with video previews, storage settings and an integrated FFmpeg downloader."
-        },
-        {
-          "type": "add",
-          "text": "Utilities: Screen customisation tools for software brightness, gamma and colour warmth. Supports individual or all monitors, automatic restoration on exit and applying settings on startup."
-        },
-        {
-          "type": "add",
-          "text": "Utilities: Internet optimisation tools with configurable DNS and QoS (DSCP) settings."
-        },
-        {
-          "type": "add",
-          "text": "Utilities: Game Mode with Boost, Calm, Memory, Power and Timer options for a more controlled gaming setup."
-        },
-        {
-          "type": "add",
-          "text": "Shake: Customisable mouse shaking with Left / Right and Up / Down directions, adjustable speed, intensity, ramp-up, randomness and automatic stop timer."
-        },
-        {
-          "type": "add",
-          "text": "Shake: Independent Hold and Toggle activation modes with a dedicated hotkey, separate from the auto clicker."
-        },
-        {
-          "type": "add",
-          "text": "Crosshair: Custom Roblox cursors with image importing, live previews and adjustable sizing."
-        },
-        {
-          "type": "add",
-          "text": "Crosshair: Cursor and font preservation across Roblox updates, automatic original-file backups and reliable restoration. Supports Roblox, Bloxstrap and Fishstrap."
-        },
-        {
-          "type": "add",
-          "text": "Macros: Record, edit and replay custom macros, with an emergency panic key (F12 by default) to stop everything instantly."
-        },
-        {
-          "type": "add",
-          "text": "Presets: Save, share and instantly apply your entire configuration with one click."
-        },
-        {
-          "type": "add",
-          "text": "Games: Launch supported games directly from the built-in games section."
-        },
-        {
-          "type": "add",
-          "text": "Extras: Daily Spin Wheel with one free spin every 24 hours and a countdown displayed in the sidebar."
-        },
-        {
-          "type": "add",
-          "text": "Extras: Discord authentication that remembers your account, synchronises with your selected theme and features a matching frosted-glass appearance."
-        },
-        {
-          "type": "add",
-          "text": "Extras: Live news and patch notes panel that updates automatically while Surge Engine is running."
+          "text": "Extras: Daily Spin Wheel, Discord authentication, live news and automatic patch note updates."
         }
       ]
     },
@@ -183,8 +68,9 @@
       "date": "2026-11-20",
       "tag": "news",
       "title": "Welcome to Surge Engine",
-      "body": "Welcome to Surge Engine! Stay up to date with the latest announcements, updates and features. Join our Discord community to get involved and never miss an update.",
+      "body": "Welcome to Surge Engine! Join our Discord to stay updated with announcements, new features and community news.",
       "url": "https://discord.gg/8vHeRzH4H8"
     }
   ]
 }
+```
